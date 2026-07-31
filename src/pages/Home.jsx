@@ -120,10 +120,10 @@ export default function Home() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
-              <Button to="/services" variant="accent" size="lg" icon={ArrowRight}>
+              <Button to="/services" className="rounded-lg" variant="accent" size="lg" icon={ArrowRight}>
                 Our Services
               </Button>
-              <Button to="/contact" variant="outline-light" size="lg">
+              <Button to="/contact" className="rounded-lg" variant="outline-light" size="lg">
                 Contact Us
               </Button>
             </div>
