@@ -98,7 +98,7 @@ export default function About() {
                 
                 <ul className="space-y-4">
                   {[
-                    'Registered & Certified Chartered Accountants (FCA, FCTI)',
+                    'Registered & Certified Chartered Accountants',
                     'Deep regulatory expertise in Nigerian tax and statutory laws',
                     'Proven track record across 13 major industry sectors',
                     'Strict compliance with international reporting standards',

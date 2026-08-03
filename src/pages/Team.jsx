@@ -28,36 +28,28 @@ export default function Team() {
       bio: '19+ years of distinguished experience in commercial banking, corporate finance, statutory financial reporting, risk assessment, and institutional compliance.',
     },
     {
-      name: 'Otoyo E. Emah',
-      credentials: 'ACA, ACTI',
+      name: 'Samuel Awofadeju',
+      credentials: 'MSc, FCA, FCTI',
       role: 'Partner',
       experience: '20+ Years Experience',
-      initials: 'OE',
+      initials: 'SA',
       photoUrl: null, // Replace with '/images/team/otoyo-emah.jpg' when available
       bio: '20+ years specializing in turnaround management, organizational change, risk advisory, tax strategy, and corporate restructuring for high-growth enterprises.',
     },
-    {
-      name: 'Francis Bassey',
-      credentials: 'B.Sc., FCA, ACTI',
-      role: 'Head of Audit & Finance',
-      experience: '18+ Years Experience',
-      initials: 'FB',
-      photoUrl: null, // Replace with '/images/team/francis-bassey.jpg' when available
-      bio: 'Versatile Audit and Finance Department leader with extensive technical expertise in financial accounting systems, IT audit integration, and taxation.',
-    },
+
   ];
 
   const keyStaff = [
     {
-      name: 'Adeola Okunola',
-      qualification: 'ACA',
+      name: 'Qamardeen Oseni',
+      qualification: 'MSc, FCA, FCTI',
       department: 'Audit & Consultancy',
       experience: '15 Years Experience',
       role: 'Senior Audit Manager',
     },
     {
-      name: 'Christian Emedo',
-      qualification: 'ACA, ACTI',
+      name: 'Ruth Akwara',
+      qualification: 'MSc, FCA, FCTI',
       department: 'Taxation & Regulatory',
       experience: '10 Years Experience',
       role: 'Tax Advisory Specialist',
